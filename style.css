@@ -1028,19 +1028,14 @@ margin-bottom:10px;
     color:#d7d7d7;
     line-height:1.9;
 }
-.language-list{
-    margin-top:15px;
-    padding-left:22px;
-    color:#d7d7d7;
-    line-height:1.9;
-}
-
-.language-list li{
-    margin-bottom:10px;
-}
 
 #activities .timeline-card p{
     margin-top:12px;
+}
+#activities .timeline-card h3 i{
+    color:#00e5ff;
+    font-size:24px;
+    margin-right:12px;
 }
 
 /*====================================================
